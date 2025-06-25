@@ -31,19 +31,7 @@ Antarmuka pengguna dirancang modern dan responsif dengan tampilan statistik, for
 ```
 
 ## 🔧 Cara Menjalankan
-
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/username/task-management-system.git
-   ```
-
-2. Buka file `index.html` di browser:
-   ```bash
-   open index.html
-   ```
-
-   atau cukup klik dua kali file `index.html`.
-
+https://mawan685.github.io/uas2/
 ## 💡 Catatan
 
 - Aplikasi ini bersifat **client-side only**, semua data disimpan di browser pengguna.
