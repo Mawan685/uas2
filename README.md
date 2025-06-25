@@ -1,47 +1,47 @@
 
 # 📋 Task Management System
 
-Task Management System adalah aplikasi berbasis web sederhana yang dirancang untuk membantu pengguna mengelola tugas sehari-hari secara efisien. Aplikasi ini memungkinkan pengguna untuk menambahkan, mengedit, menyaring, dan menghapus tugas, serta melihat statistik tugas yang telah diselesaikan maupun yang masih pending.
+Task Management System is a simple web-based application designed to help users manage their daily tasks efficiently. It allows users to add, edit, filter, and delete tasks, as well as view task statistics including completed and pending tasks.
 
-## 🚀 Fitur Utama
+## 🚀 Key Features
 
-- ✅ Tambah, edit, dan hapus tugas
-- 📅 Tetapkan tanggal jatuh tempo
-- 🎯 Tandai tugas sebagai selesai atau pending
-- 🔎 Filter berdasarkan status, prioritas, dan pencarian teks
-- 📊 Statistik tugas: total, selesai, pending, dan persentase penyelesaian
-- 🌐 Semua data disimpan di `localStorage` browser
+- ✅ Add, edit, and delete tasks
+- 📅 Set due dates for tasks
+- 🎯 Mark tasks as completed or pending
+- 🔎 Filter tasks by status, priority, or keyword
+- 📊 Task statistics: total, completed, pending, and completion rate
+- 🌐 All data is stored in the browser's `localStorage`
 
-## 📸 Tampilan Antarmuka
+## 📸 User Interface
 
-Antarmuka pengguna dirancang modern dan responsif dengan tampilan statistik, formulir penambahan tugas, serta daftar tugas yang dinamis berdasarkan filter.
+The UI is modern and responsive, featuring task statistics, a task creation form, and a dynamic task list that updates based on filters.
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Technologies Used
 
 - HTML5
-- CSS3 (dengan gradient dan responsive design)
-- JavaScript (tanpa framework, pure vanilla JS)
-- localStorage API untuk penyimpanan data di browser
+- CSS3 (with gradients and responsive design)
+- JavaScript (vanilla JS, no frameworks)
+- localStorage API for data persistence
 
-## 📂 Struktur Proyek
+## 📂 Project Structure
 
 ```
 .
-├── index.html  → Berisi seluruh kode HTML, CSS, dan JavaScript
+├── index.html  → Contains all HTML, CSS, and JavaScript code
 ```
 
-## 🔧 Cara Menjalankan
+## 🔧 Live demo
 https://mawan685.github.io/uas2/
-## 💡 Catatan
 
-- Aplikasi ini bersifat **client-side only**, semua data disimpan di browser pengguna.
-- Setiap tugas memiliki ID unik yang dihasilkan dari kombinasi waktu dan angka acak.
+## 💡 Notes
 
-## 📃 Lisensi
+- This application is **client-side only**; all task data is stored in the user's browser.
+- Each task has a unique ID generated using a combination of timestamp and random string.
 
-Proyek ini dirilis di bawah lisensi [MIT](LICENSE).
+## 📃 License
+
+This project is licensed under the [MIT](LICENSE) license.
 
 ---
 
-> Dibuat dengan ❤️ untuk produktivitas yang lebih baik.
-
+> Built with ❤️ to help boost your productivity.
